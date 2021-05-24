@@ -1,0 +1,2 @@
+- Pure Zinc DFT data. The Quantum espresso outputs are formatted into LAMMPS dump [format](https://lammps.sandia.gov/doc/dump.html) format. Please use the code provided in MISC folder for conversion.
+- Please cite https://www.sciencedirect.com/science/article/pii/S0927025620306984 if you find these data useful
